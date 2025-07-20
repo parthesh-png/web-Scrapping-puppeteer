@@ -1,1 +1,1 @@
-nstagram Automation using Puppeteer
+instagram Automation using Puppeteer
